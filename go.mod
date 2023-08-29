@@ -1,3 +1,3 @@
-module github.com/get-net/parsemail
+module github.com/enekt/parsemail
 
 go 1.12
